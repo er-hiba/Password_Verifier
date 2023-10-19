@@ -8,4 +8,4 @@ This program prompts the user to enter a password, with up to three attempts to 
 ♡ Example 3  
 <img src="example3.png">  
 ♡ Example 4  
-<img src="example1.png">
+<img src="example4.png">
